@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { formatCurrency } from "../../utils/helpers";
 import { getCurrentQuantityById } from "../cart/cartSlice.js";
 import DeleteItem from "./DeleteItem";
